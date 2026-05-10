@@ -1,4 +1,4 @@
-# stream-utils
+ # stream-utils
 Java Stream library utilities- A reusable utiity library for common Java operations
 
 ## Features
